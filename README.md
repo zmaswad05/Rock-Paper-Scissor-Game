@@ -1,7 +1,7 @@
 Rock-Paper-Scissors Game
 ========================
 
-Welcome to the Rock-Paper-Scissors game! This is a simple console-based game where you can play against the computer, the game is implemented using the C++ programming language and follows the procedural programming paradigm.
+Welcome to the Rock-Paper-Scissors game! This is a simple console-based game where you can play against the computer, The game is implemented using the C++ programming language and follows the procedural programming paradigm with functions calling each other.
 
 How to Play
 -----------
